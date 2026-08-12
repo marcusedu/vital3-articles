@@ -1,0 +1,44 @@
+[
+  {
+    "id": "como_reduzir_tempo_de_tela",
+    "category": {
+      "pt": "Foco & Tecnologia",
+      "en": "Focus & Technology",
+      "es": "Enfoque y Tecnología"
+    },
+    "title": {
+      "pt": "Como Reduzir o Tempo de Tela",
+      "en": "How to Reduce Screen Time",
+      "es": "Cómo Reducir el Tiempo de Pantalla"
+    },
+    "description": {
+      "pt": "Aprenda a configurar limites nativos e retomar o foco diário.",
+      "en": "Learn to set native limits and reclaim daily focus.",
+      "es": "Aprende a configurar límites nativos y recuperar el enfoque diario."
+    },
+    "targetOS": "all",
+    "publishDate": "2026-08-12T12:00:00Z",
+    "markdownPath": "articles/como_reduzir_tempo_de_tela"
+  },
+  {
+    "id": "imposto_da_inteligencia",
+    "category": {
+      "pt": "Filosofia & Foco",
+      "en": "Philosophy & Focus",
+      "es": "Filosofía y Enfoque"
+    },
+    "title": {
+      "pt": "O Imposto da Inteligência",
+      "en": "The Intelligence Tax",
+      "es": "El Impuesto de la Inteligencia"
+    },
+    "description": {
+      "pt": "Entenda os pequenos impostos de atenção, evitação e corpo que sabotam seu raciocínio diariamente.",
+      "en": "Understand the micro-taxes on attention, avoidance, and body that sabotage your reasoning daily.",
+      "es": "Comprende los microimpuestos de atención, evitación y cuerpo que sabotean tu razonamiento a diario."
+    },
+    "targetOS": "all",
+    "publishDate": "2026-08-12T12:00:00Z",
+    "markdownPath": "articles/imposto_da_inteligencia"
+  }
+]
