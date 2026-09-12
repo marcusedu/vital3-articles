@@ -40,5 +40,26 @@
     "targetOS": "all",
     "publishDate": "2026-08-12T12:00:00Z",
     "markdownPath": "articles/imposto_da_inteligencia"
+  },
+  {
+    "id": "direcao_decisao_terreno",
+    "category": {
+      "pt": "Constância & Hábitos",
+      "en": "Consistency & Habits",
+      "es": "Constancia y Hábitos"
+    },
+    "title": {
+      "pt": "Direção, Decisão e o Terreno Onde a Vida Acontece",
+      "en": "Direction, Decision, and the Terrain Where Life Happens",
+      "es": "Dirección, Decisión y el Terreno Donde Sucede la Vida"
+    },
+    "description": {
+      "pt": "A decisão apenas aponta o rumo. Entenda como construir o terreno, proteger o sono e manter o movimento mesmo no automático.",
+      "en": "Decision merely points the way. Learn how to build the terrain, protect sleep, and sustain momentum even on autopilot.",
+      "es": "La decisión solo señala el rumbo. Aprende a construir el terreno, proteger el sueño y mantener el movimiento incluso en automático."
+    },
+    "targetOS": "all",
+    "publishDate": "2026-09-12T12:00:00Z",
+    "markdownPath": "articles/direcao_decisao_terreno"
   }
 ]
