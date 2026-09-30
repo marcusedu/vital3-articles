@@ -61,5 +61,26 @@
     "targetOS": "all",
     "publishDate": "2026-09-12T12:00:00Z",
     "markdownPath": "articles/direcao_decisao_terreno"
+  },
+  {
+    "id": "fazer_com_o_que_se_tem",
+    "category": {
+      "pt": "Constância & Hábitos",
+      "en": "Consistency & Habits",
+      "es": "Constancia y Hábitos"
+    },
+    "title": {
+      "pt": "Fazer Com o Que Se Tem, Saber o Que Fazer e Ser Quem Faz",
+      "en": "Work With What You Have, Know What to Do, and Be the One Who Does It",
+      "es": "Hacer Con Lo Que Se Tiene, Saber Qué Hacer y Ser Quien Lo Hace"
+    },
+    "description": {
+      "pt": "Três obstáculos que formam uma sequência: a muleta do estado ideal, a falta de organização mínima e a espera por um eu que nunca chega.",
+      "en": "Three obstacles that form a sequence: the crutch of the ideal state, the lack of minimal organization, and waiting for a self that never arrives.",
+      "es": "Tres obstáculos que forman una secuencia: la muleta del estado ideal, la falta de organización mínima y la espera de un yo que nunca llega."
+    },
+    "targetOS": "all",
+    "publishDate": "2026-09-30T12:00:00Z",
+    "markdownPath": "articles/fazer_com_o_que_se_tem"
   }
 ]
